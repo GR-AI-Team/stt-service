@@ -1,0 +1,8 @@
+fastapi 
+uvicorn 
+websockets 
+aiofiles 
+openai 
+wave 
+python-multipart 
+aliyun-python-sdk-core==2.13.3

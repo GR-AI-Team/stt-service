@@ -1,2 +1,2 @@
 # stt-service
-service for stt
+service for stt (stt -> sentiment analysis llm)
